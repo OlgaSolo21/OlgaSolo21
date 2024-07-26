@@ -1,4 +1,4 @@
-<h1 align="center"> Я Оля - frontend developer-энтузиаст и котомать :cat: </h1>
+<h1 align="center"> Я Оля - frontend-developer энтузиаст и котомать :cat: </h1>
 
 ---
 
