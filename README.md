@@ -1,4 +1,4 @@
-<h1 align="center"> Я Оля - frontend-developer энтузиаст и котомать :cat: </h1>
+<h1 align="center"> Привет! Я Оля: frontend-разработчик, энтузиаст и котомать :cat: </h1>
 
 ---
 
@@ -48,14 +48,6 @@
 ![Static Badge](https://img.shields.io/badge/POSTMAN-white?style=flat&logo=POSTMAN&logoColor=%2366CDAA&labelColor=grey&color=grey)
 ![Static Badge](https://img.shields.io/badge/NGINX-white?style=flat&logo=nginx&logoColor=%2366CDAA&labelColor=grey&color=grey)
 ![Static Badge](https://img.shields.io/badge/FIGMA-white?style=flat&logo=FIGMA&logoColor=%2366CDAA&labelColor=grey&color=grey)
-
----
-
-### Текущая статистика:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlgaSolo21&border=66CDAA&background=100%2C66CDAA%2C66CDAA&stroke=828282&ring=828282&fire=828282&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=120606&dates=1C0A0A)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaSolo21&layout=compact&bg_color=66CDAA&border_color=66CDAA&title_color=000000&text_color=000000)
 
 ---
 
