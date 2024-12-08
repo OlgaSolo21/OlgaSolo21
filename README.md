@@ -1,5 +1,5 @@
-<h1 align="center"> Привет!
-    Я Оля: frontend-разработчик, энтузиаст и котомать :cat: </h1>
+<h1 align="center"> Привет! Я Оля</h1>
+<h1 align="center">frontend-разработчик, энтузиаст и котомать :cat:</h1>
 
 ---
 
